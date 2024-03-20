@@ -57,7 +57,6 @@ const Temp = () => {
         </div>
       </div>
       <Weathercard tempInfo={tempInfo} />
-      <h1>my app weather</h1>
     </>
   );
 };
